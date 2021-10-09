@@ -2,7 +2,7 @@
 	<img width="500" height="350" src="https://raw.githubusercontent.com/sindresorhus/awesome/f76c1cebad4ab84ad39b55e450ca1619d93349d8/media/logo.svg">
 </p>
 
-<h2 align="center">Awesome lists of free hosters for your projects</h2>
+<h2 align="center">Awesome list of free hosters for your projects</h2>
 
 Name & Url | Languages | Can project be private | Is plans cheap | Description | My opinion description
 ---- | ---- | ---- | ---- | ---- | ----
