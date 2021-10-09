@@ -1,3 +1,4 @@
+
 <p align="center">
 	<img width="500" height="350" src="https://raw.githubusercontent.com/sindresorhus/awesome/f76c1cebad4ab84ad39b55e450ca1619d93349d8/media/logo.svg">
 </p>
@@ -12,6 +13,7 @@ Name & Url | Languages | Can project be private | Is plans cheap | Description |
 [Heroku](https://www.heroku.com/) | NodeJS, Ruby, PHP, Java, Python, Go, Scala & Clojure | Yes | Yes | _Heroku_ is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud. | 2 last years I used Heroku to host my Discord bots and the only thing that is bad is It gives you 550 Dyno and once that Dyno is gone your applications will automatically died and to get another Dyno you need to wait for 1 month. But It's really good I recommend Heroku too.
 [AWS](https://aws.amazon.com/) | Java, Go, PowerShell, Nodejs, C#, Python & Ruby | Yes | I don't know | Whether you're looking for compute power, database storage, content delivery, or other functionality, AWS has the services to help you build sophisticated applications with increased flexibility, scalability and reliability. | No opinion, I haven't used it.
 [Google Cloud](https://cloud.google.com/) | Python, Ruby, Go, NodeJS, Pearl, Typescript, PHP, Rust & more | Yes | Yes | Build apps faster, make smarter business decisions, and connect people anywhere. | No opinion, I haven’t used it.
-[Discloud](https://discloudbot.com/) | NodeJS | Yes | Yes | DisCloud was born with the desire to offer easy, free and quality hosting for Discord Bots. | No pinion, I haven't used it.
+[Discloud](https://discloudbot.com/) | NodeJS | Yes | Yes | DisCloud was born with the desire to offer easy, free and quality hosting for Discord Bots. | I haven't used this but people says It's really good.
 [DigitalOcean](https://www.digitalocean.com/) | Python, Ruby, Go, NodeJS, Pearl, Typescript, PHP, Rust & more | Yes | Yes | Always know what you'll pay with monthly caps and flat pricing across all data centers. | No opinion, I haven’t used it.
 [SoloNodes](https://solonodes.xyz/) | NodeJS | Yes | Yes | Freemium Hosting Made Simpler. | I use this to host my bot because It's kinda better than Heroku but you can only make 1 application and It runs forever, If you want to make more applications then earn a AFK points to buy some stuff in the shop using AFK points.
+[Infinitzhost](https://infinitzhost.com/) |PHP, NodeJS & Python | Yes | Yes | InfinitzHost, Your Best and FreeHosting and Affordable Reseller Hosting Provider, Get your Plan and Get started Today! | I haven't used this but It's really good base on the plans. You can have unlimated subdomains, 10GB bandwidth, 2 addon domains & more.
