@@ -6,6 +6,7 @@
 
 Name & Url | Languages | Can project be private | Is plans cheap | Description
 ---- | ---- | ---- | ---- | ----
+[TinkerHost](https://tinkerhost.net/) | HTML/CSS/JS, PHP, MySQL | Yes | Yes | Webhosting with free sitebuilder, ssl certificates, 5-minute WordPress installer, so much more. FTP & MySQL Databases included, 100 GB/month traffic.
 [Qovery](https://qovery.com/) | NodeJS, Python, Typescript, Go, PHP, Java & Ruby | Yes | Yes | _Qovery_ helps tech companies to deploy their apps on AWS in just a few seconds. _Qovery_ is the simplest way to deploy your full-stack apps.
 [Vercel](https://vercel.com/) | NodeJS, Go, Python & Ruby | Yes | Yes | Vercel is **a platform for static sites and frontend frameworks**, built to integrate with your headless content, commerce, or database. We provide a frictionless developer experience to take care of the hard things: deploy instantly, scale automatically, and serve personalized content around the globe.
 [Glitch](https://glitch.com/) |Java, C#, Python, Go, Rust, Racket, Nodejs, Typescript, Elm, Fable, Bucklescript & Purescript | Yes(But it's not free) | Yes | Create your next web project in your browser with no setup and we'll instantly deploy it.
