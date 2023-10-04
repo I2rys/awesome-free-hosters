@@ -15,7 +15,6 @@ Name & Url | Languages | Can project be private | Is plans cheap | Description
 [Google Cloud](https://cloud.google.com/) | Python, Ruby, Go, NodeJS, Pearl, Typescript, PHP, Rust & more | Yes | Yes | Build apps faster, make smarter business decisions, and connect people anywhere.
 [Discloud](https://discloudbot.com/) | NodeJS | Yes | Yes | DisCloud was born with the desire to offer easy, free and quality hosting for Discord Bots.
 [DigitalOcean](https://www.digitalocean.com/) | Python, Ruby, Go, NodeJS, Pearl, Typescript, PHP, Rust & more | Yes | Yes | Always know what you'll pay with monthly caps and flat pricing across all data centers.
-[SoloNodes](https://solonodes.xyz/) | NodeJS | Yes | Yes | Freemium Hosting Made Simpler.
 [Infinitzhost](https://infinitzhost.com/) |PHP, NodeJS & Python | Yes | Yes | InfinitzHost, Your Best and FreeHosting and Affordable Reseller Hosting Provider, Get your Plan and Get started Today!
 [InfinityFree](https://infinityfree.net/) | PHP & MySQL | Yes | Yes | Completely free website hosting with PHP, MySQL and no ads on your site!
 [FireBase](https://firebase.google.com/) | NodeJS, Go, Python & probably many more | Yes | Yes | Firebase is a platform developed by Google for creating mobile and web applications. It was originally an independent company founded in 2011. In 2014, Google acquired the platform and it is now their flagship offering for app development.
