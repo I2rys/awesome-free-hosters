@@ -3,6 +3,7 @@
 </p>
 
 <h2 align="center">Awesome list of free hosters for your projects</h2>
+<div align="center"><p>Please refer to <a href="https://github.com/ncryptsion/awesome-hosting-providers">Awesome-Hosting-Providers</a> for the updated version.</p></div>
 
 Name & Url | Languages | Can project be private | Is plans cheap | Description
 ---- | ---- | ---- | ---- | ----
